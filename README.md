@@ -7,28 +7,26 @@ ___________              ___________   .__    .___ ________  .__                
 		 
 		 
 		 
-		 FroSkid is an open-source Discord.JS bot made for https://discord.me/HCHub. It comes with a full featured command handler along with
-		 a warn system with support for multiple guilds. It also comes with a screenshot command that screenshots webpages. There are NSFW
-		 commands but they are indeed optional. 
+		 FroSkid is an open-source Discord.JS bot made for https://discord.me/HCHub. It comes with a full featured command handler,
+		 a full database system, music commands, and more! 
 		 
 		 Feel free to modify it or rename it for your personal Discord, just make sure to credit this github or Fro#7704.
-		 This bot is made for beginners just like me.
+		 This bot was made for beginners.
 		 
 		 Special thanks to:
-		 Whogivsachit - Most of the commands
-		 OofsL - Slave/Test Subject
+		 Whogivsachit - Command Handler  /  Some Commands
+		 OofsL - lol
 		 
 		 How to install:
-		 Press shift and right click at the same time.
-		 Click open in powershell
-		 Do npm install
-		 Wait for that to finish
-		 Go to settings.json and set your token and/or desired prefix
-		 Then open the "Run Bot.bat"
-		 Type "Y" and hit enter
+		 Run the bot, for each module required open powershell and do "npm i <module name>"
+		 Also, create a settings.json file with this in it:
+		 {
+			"ownerid": "PUT YOUR ID",
+			"friendids": "FRIEND'S ID",
+			"prefix": "-",
+			"token": "INSERT TOKEN"
+		}
 		 
-		 
-		 I know there's other open source bots like Bastion or Xiao, but FroSkid is easy to use and you don't need to go through and
-		 do a special installation process.
+		 I know there's other open source bots like Bastion or Xiao, but FroSkid is easy to use bot and it isn't complicated.
 		 
 		 Fro#7704
