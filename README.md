@@ -26,7 +26,7 @@ ___________              ___________   .__    .___ ________  .__                
 			"prefix": "-",
 			"token": "INSERT TOKEN"
 		}
-		 
+		 Also be sure to create a folder called "images"
 		 I know there's other open source bots like Bastion or Xiao, but FroSkid is easy to use bot and it isn't complicated.
 		 
 		 Fro#7704
