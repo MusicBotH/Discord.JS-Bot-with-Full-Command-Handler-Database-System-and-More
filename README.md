@@ -7,7 +7,7 @@ ___________              ___________   .__    .___
 		 
 		 
 		 
-		 FroSkid is an open-source Discord.JS bot made for https://discord.me/HCHub. It comes with a full featured command handler,
+		 FroSkid is an open-source Discord.JS bot made for. It comes with a full featured command handler,
 		 a full database system, music commands, and more! 
 		 
 		 Feel free to modify it or rename it for your personal Discord, just make sure to credit this github or Fro#7704.
