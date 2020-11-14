@@ -1,10 +1,4 @@
-___________              ___________   .__    .___ 
-\_   _____/______  ____ /   _____/  | _|__| __| _/
- |    __) \_  __ \/  _ \\_____  \|  |/ /  |/ __ |
- |     \   |  | \(  <_> )        \    <|  / /_/ | 
- \___  /   |__|   \____/_______  /__|_ \__\____ |  
-     \/                        \/     \/          
-		 
+   WARNING! THIS HAS SECURITY VULNERABILITIES AND SHOULD NOT BE USED ANYMORE.		 
 		 
 		 
 		 FroSkid is an open-source Discord.JS bot made for. It comes with a full featured command handler,
